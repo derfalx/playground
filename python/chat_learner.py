@@ -1,5 +1,5 @@
 """
-Quick and Dirty. First try to predict the owner of a given peace of text.
+Quick and Dirty. First try to predict the owner of a given piece of text.
 I am sure, there's a lot of code and a huge amount of papers out there doing 
 way better.
 """
