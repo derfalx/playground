@@ -17,6 +17,7 @@ Here you can find snippets I wrote if I just wanted to try something out. Some m
 
 #### Go
 - [hello-world.go](https://github.com/derfalx/playground/blob/master/go/hello-world.go)
+- [enigma.go](https://github.com/derfalx/playground/blob/master/go/enigma.go)
 
 ---
 
